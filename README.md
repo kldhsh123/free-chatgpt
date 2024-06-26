@@ -2,7 +2,7 @@
 给大家整理了一些国内可用的ChatGPT中文版镜像网站，现在因为OpenAI不给国内使用官方的API，所以整理的一些镜像站点是通过Azure或者其他方式搭建的镜像网站，所以不会影响使用。
  
 1. https://snakegpt.work       （国内可以直接使用，支持GPT3.4、4.0、4o，可以使用Midjourney绘画，支持GPTS，可以上传文件，生成图片）
-2. https://gpt-cat.com/        （一比一还原官网，支持GPTS，可以上传文件，比官网便宜）
+2. https://gptcat.top/        （一比一还原官网，支持GPTS，可以上传文件，比官网便宜）
 3. https://ai-panda.xyz/login?invite_code=34137c47       （UI设计很好，用的很舒服）
 4. http://gptdog.online/      
 5. https://ai.minihuo.com/#/chat/1002
